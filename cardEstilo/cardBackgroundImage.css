@@ -1,0 +1,70 @@
+/*
+	Modelo de Frente
+*/
+<div class=frontback>
+<div class=texte>{{Front}}</div>
+</div>
+
+/*
+	Modelo de Tras
+*/
+{{FrontSide}} 
+<div class=frontback>
+<div class=texte>{{Back}}</div> 
+</div>
+
+
+html {
+background-image: url("https://i.imgur.com/nsJvgERg.jpg");
+ background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-size: 1000px 1000px;
+	background-position: center; 
+}
+
+.frontback {
+/* Modifier la distance entre le texte et le cadre : */
+padding:20px;
+/* Modifier la couleur du cadre : */
+background-color:#fff; 
+/* Arrondir les bords du cadre  : */
+border-radius:30px;
+/* Modifier les marges "en haut et en bas" ainsi que "à gauche et à droite" : */
+margin: 30px 200px;
+}
+
+.texte { 
+/* Modifier la police : */
+font-family: arial;
+/* Modifier la taille de la police : */
+font-size: 25px;
+/* Modifier la couleur de la police : */
+color: black;
+/* Je vous conseille de créer un type de note spécifique pour des informations à apprendre sous forme de listes et de remplacer "center" par "left". Les cartes seront ainsi plus lisibles */
+text-align: center; 
+}
+
+/* Les mêmes réglages peuvent être faits pour Android et IOS : */
+
+.mobile .frontback { 
+padding:15px;
+background-color:#fff; 
+border-radius:10px;
+margin: 10px 30px;
+}
+
+.mobile .texte { 
+text-align: center;
+color: black;
+font-family: arial;
+font-size: 15px;
+}
+
+card:after {
+content: "";
+top: 0; bottom: 0; left: 0; right: 0;
+background-color:#ffffff;
+opacity: 1;
+position: fixed;
+z-index: -1;
+}
