@@ -6,7 +6,7 @@ Fiz esse reposiorio para guardar as configurações, estilos, cards etc, que eu 
 ### [Modo Noturno](https://ankiweb.net/shared/info/1496166067)
 ![enter image description here](https://raw.githubusercontent.com/krassowski/Anki-Night-Mode/master/preview.png)
 
-### [Ocultação de Imagem]([https://ankiweb.net/shared/info/1111933094](https://ankiweb.net/shared/info/1111933094)
+### [Ocultação de Imagem](https://ankiweb.net/shared/info/1111933094](https://ankiweb.net/shared/info/1111933094)
 ![enter image description here](https://raw.githubusercontent.com/glutanimate/image-occlusion-enhanced/master/screenshots/ankiweb.png)
 
 
