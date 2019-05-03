@@ -17,7 +17,9 @@ Fiz esse reposiorio para guardar as configurações, estilos, cards etc, que eu 
 [Card com Imagem de Fundo](https://github.com/rafamar9806/ankiTricks/blob/master/cardEstilo/cardBackgroundImage.css)
 ![enter image description here](https://i.imgur.com/EHoHp48.jpg)
 
-[basico colorido](https://github.com/rafamar9806/ankiTricks/blob/master/cardEstilo/cardBackgroundImage.css)
-![enter image description here](https://i.imgur.com/DC8kyQmg.jpg)
+[basico colorido](https://github.com/rafamar9806/ankiTricks/blob/master/cards/templateCards/templatecolorido.apkg)
+
+![enter image description here](https://i.imgur.com/QmQVwzL.png)
+
 
 
